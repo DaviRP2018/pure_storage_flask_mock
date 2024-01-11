@@ -1,0 +1,5 @@
+flask
+Flask-RESTful
+gunicorn
+pyopenssl
+pre_commit
